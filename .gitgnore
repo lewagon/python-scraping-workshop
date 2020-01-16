@@ -7,3 +7,6 @@ Makefile
 .local/
 .ipython/
 .cache/
+.config
+
+.bash_history
