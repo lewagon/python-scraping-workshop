@@ -1,0 +1,9 @@
+# Development files
+.dockerdev/
+Makefile
+
+# Files that Jupyter creates
+.ipynb_checkpoints/
+.local/
+.ipython/
+.cache/
