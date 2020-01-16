@@ -8,5 +8,7 @@ Makefile
 .ipython/
 .cache/
 .config
+.jupyter
+
 
 .bash_history
