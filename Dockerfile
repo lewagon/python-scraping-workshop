@@ -8,3 +8,6 @@ RUN rm -rf ./work
 COPY --chown=1000:100 ./livecode.ipynb .
 COPY --chown=1000:100 ./livecode_complete.ipynb .
 COPY --chown=1000:100 ./challenges.ipynb .
+COPY --chown=1000:100 ./spanish/livecode.ipynb .
+COPY --chown=1000:100 ./spanish/livecode_complete.ipynb .
+COPY --chown=1000:100 ./spanish/challenges.ipynb .
