@@ -10,4 +10,4 @@ COPY --chown=1000:100 ./livecode_complete.ipynb .
 COPY --chown=1000:100 ./challenges.ipynb .
 
 # create spanish folder for spanish files
-ADD spanish /spanish
+ADD spanish spanish
